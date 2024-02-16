@@ -1,11 +1,11 @@
 ### Hey I'm Santa / Salut, c'est Santa 👋
 
 
-👨‍🎓  Engineering Student @ IMT Atlantique  
+👨‍🎓  Engineering Student <!--@ IMT Atlantique  -->
 🔥  Machine Learning & Computer Vision Researcher wannabe  
 🗿  Average tech and science enjoyer  
 🔜 Projects coming  
-💬 Contact me on : quentin.santarelli@imt-atlantique.net
+💬 Contact me on : <!--quentin.santarelli@imt-atlantique.net -->
 
 
 <!--

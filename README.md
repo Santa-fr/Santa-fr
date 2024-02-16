@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey I'm Santa / Salut, c'est Santa 👋
+
+
+👨‍🎓  Engineering Student @ IMT Atlantique  
+🔥  Machine Learning & Computer Vision Researcher wannabe  
+🗿  Average tech and science enjoyer  
+🔜 Projects coming  
+💬 Contact me on : quentin.santarelli@imt-atlantique.net
+
 
 <!--
 **Santa-fr/Santa-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
